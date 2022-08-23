@@ -15,3 +15,6 @@ git pull
 git add .
 git push
 ```
+- [x] write email to hoa
+- [ ] finish the task
+- [ ] write the medium blogpost
